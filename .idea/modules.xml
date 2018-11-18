@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/hello-funk.iml" filepath="$PROJECT_DIR$/.idea/hello-funk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hello-fun/.idea/hello-funk.iml" filepath="$PROJECT_DIR$/../hello-fun/.idea/hello-funk.iml" />
     </modules>
   </component>
 </project>
